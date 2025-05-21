@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Sheet2 Member=Q33
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Added Component: Designator=Q1(TO220_3)
+Add component (AddParameter): Name = "MANF"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "BTA12-600BW, BTA12-600CW, BTA12-600TW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1200toman@PAYA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "BTA12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=N-Line Pin=Q1-1
+Added Pin To Net: NetName=SCR-P1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-1
+Added Net: Name=NetQ1_3

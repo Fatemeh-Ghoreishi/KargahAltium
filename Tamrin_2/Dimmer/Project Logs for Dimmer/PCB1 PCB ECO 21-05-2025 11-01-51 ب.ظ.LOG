@@ -1,0 +1,15 @@
+Added Component: Designator=Q?(D_AX03_DO35)
+Add component (AddParameter): Name = "MANF"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "DB3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "2A, -40~125oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "32VBO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "toman@PAYA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DB3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=N-Line Pin=C1-1
+Add Pin To Net: Unknown Pin: Pin Q1-
+Add Pin To Net: Unknown Pin: Pin Q1-
+Add Pin To Net: Unknown Pin: Pin Q1-
+Added Pin To Net: NetName=NetQ1 Pin=Q?-1
+Added Pin To Net: NetName=N-Line Pin=Q?-2
+Added Pin To Net: NetName=N-Line Pin=R2-1
+Added Member To Class: ClassName=Sheet2 Member=Component Q? DB3
