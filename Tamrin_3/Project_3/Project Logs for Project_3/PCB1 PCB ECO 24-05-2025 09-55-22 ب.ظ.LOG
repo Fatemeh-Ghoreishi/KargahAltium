@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Added Component: Designator=J-V(HDR_M_1X3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ-V_1 Pin=J-V-1
+Added Pin To Net: NetName=NetJ-V_1 Pin=MAX1-5
+Added Net: Name=NetJ-V_1
+Added Pin To Net: NetName=NetJ-V_2 Pin=J-V-2
+Added Pin To Net: NetName=NetJ-V_2 Pin=MAX1-4
+Added Net: Name=NetJ-V_2
+Added Pin To Net: NetName=NetJ-V_3 Pin=J-V-3
+Added Pin To Net: NetName=NetJ-V_3 Pin=MAX1-3
+Added Net: Name=NetJ-V_3
+Added Member To Class: ClassName=Sheet1 Member=Component J-V HDRM3

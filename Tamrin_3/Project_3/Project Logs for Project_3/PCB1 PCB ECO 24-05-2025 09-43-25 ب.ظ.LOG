@@ -1,0 +1,32 @@
+Added Component: Designator=J1(HDR_F_1X3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=J-Power(JAC_PWR2)
+Add component (AddParameter): Name = "MANF"; Value = "CUI STACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "PJ-202A, PJ-002AH, PJ-102AH, KLDX-0202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DC_POWER_JACK"; VariantName = "[No Variations]"
+Added Component: Designator=MAX1(MAX30102-MODULE)
+Added Pin To Net: NetName=+5 Pin=J-Power-1
+Added Pin To Net: NetName=+5 Pin=MAX1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=J-Power-2
+Added Pin To Net: NetName=GND Pin=J-Power-3
+Added Pin To Net: NetName=GND Pin=MAX1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=MAX1-5
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=MAX1-4
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=MAX1-3
+Added Net: Name=NetJ1_3
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
